@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.UI.UIStart" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/UI/UIStart.java" binary="false" label="uiStart" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="79" y="0"/>    
+    <execution id="2">      
+      <position height="63" width="152" x="5" y="99"/>    
+    </execution>  
+  </object>  
+  <object id="5" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.UI.UIController" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/UI/UIController.java" binary="false" label="uiController" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="325" y="0"/>    
+    <execution id="4">      
+      <position height="21" width="152" x="161" y="120"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="63" width="152" x="161" y="168"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.UI.DriverInstance" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/UI/DriverInstance.java" binary="false" label="driverInstance" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="317" y="0"/>    
+    <execution id="8">      
+      <position height="21" width="152" x="317" y="189"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="63" width="152" x="317" y="120"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="63" width="152" x="317" y="235"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="105" width="152" x="317" y="356"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="161" width="152" x="317" y="459"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="105" width="152" x="317" y="571"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="63" width="152" x="317" y="669"/>    
+    </execution>  
+  </object>  
+  <object id="28" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.JDBCDriver" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/JDBCDriver.java" binary="false" label="jdbcDriver" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="616" y="0"/>    
+    <execution id="12">      
+      <position height="21" width="139" x="473" y="141"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="63" width="139" x="473" y="191"/>    
+    </execution>  
+  </object>  
+  <object id="32" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.ConnectionManager" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/ConnectionManager.java" binary="false" label="connectionManager" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="745" y="0"/>    
+    <execution id="31">      
+      <position height="21" width="139" x="616" y="212"/>    
+    </execution>  
+  </object>  
+  <object id="33" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.MyConnection" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/MyConnection.java" binary="false" label="myConnection" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="867" y="0"/>    
+    <execution id="15">      
+      <position height="21" width="139" x="759" y="256"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="63" width="139" x="759" y="288"/>    
+    </execution>  
+  </object>  
+  <object id="37" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.MyStatement" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/MyStatement.java" binary="false" label="myStatement" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="1021" y="0"/>    
+    <execution id="36">      
+      <position height="21" width="139" x="902" y="309"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="63" width="139" x="902" y="377"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="119" width="139" x="902" y="480"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="63" width="139" x="902" y="592"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="63" width="139" x="902" y="99"/>    
+    </execution>  
+  </object>  
+  <object id="49" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.MyResultset" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/MyResultset.java" binary="false" label="myResultset" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="1047" y="0"/>    
+    <execution id="41">      
+      <position height="63" width="139" x="1045" y="501"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="139" x="1045" y="690"/>    
+    </execution>  
+  </object>  
+  <object id="52" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.MyResultSetMetaData" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/MyResultSetMetaData.java" binary="false" label="myResultSetMetaData" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1000" y="0"/>    
+    <execution id="51">      
+      <position height="21" width="148" x="1188" y="522"/>    
+    </execution>  
+  </object>  
+  <object id="53" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.SingleDatabaseEngine" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/SingleDatabaseEngine.java" binary="false" 
+    label="singleDatabaseEngine" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1022" y="0"/>    
+    <execution id="39">      
+      <position height="21" width="150" x="1340" y="398"/>    
+    </execution>    
+    <execution id="45">      
+      <position height="21" width="150" x="1340" y="613"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="21" width="150" x="1340" y="557"/>    
+    </execution>  
+  </object>  
+  <object id="54" language="java" name="eg.edu.alexu.csd.oop.jdbc.cs43.TimeLimitedCodeBlock" project="JDBC" 
+    file="/JDBC/src/eg/edu/alexu/csd/oop/jdbc/cs43/TimeLimitedCodeBlock.java" binary="false" 
+    label="timeLimitedCodeBlock" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1015" y="0"/>    
+    <execution id="48">      
+      <position height="21" width="154" x="1494" y="120"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="UIController()" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="7" asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="11" operation="connect(java.lang.String,java.util.Properties):java.sql.Connection" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="14" operation="createStatement():java.sql.Statement" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="17" operation="execute(java.lang.String):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="20" operation="executeQuery(java.lang.String):java.sql.ResultSet" asynchronous="false">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="23" operation="executeUpdate(java.lang.String):int" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="26" operation="getMetaData():java.sql.ResultSetMetaData" asynchronous="false">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="30" operation="acquireConnection(java.lang.String):java.sql.Connection" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="35" operation="MyStatement(java.sql.Connection,java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="38" operation="execute(java.lang.String):java.lang.Object" asynchronous="false">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="40" 
+    operation="MyResultset(java.sql.ResultSetMetaData,java.lang.Object[][],java.lang.String[],java.sql.Statement)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="42" operation="executeQuery(java.lang.String):java.lang.Object[][]" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="44" operation="executeUpdateQuery(java.lang.String):int" asynchronous="false">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="45"/>  
+  </message>  
+  <message id="47" 
+    operation="runWithTimeout(java.util.concurrent.Callable&lt;T&gt;,long,java.util.concurrent.TimeUnit):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="50" operation="MyResultSetMetaData(java.lang.String,java.lang.String[],java.lang.String[])" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="51"/>  
+  </message>
+</sequence-diagram>
